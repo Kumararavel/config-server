@@ -8,4 +8,4 @@ eureka:
     hostname: localhost
 myproperty:
   common:
-    copyright.text: Copyright Notice 2021
+    copyrighttext: Copyright Notice 2021
