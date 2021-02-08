@@ -1,4 +1,4 @@
-myprefix:
+mydatabase:
   name: DEFAULT
   description: This is DEFAULT environment
   
