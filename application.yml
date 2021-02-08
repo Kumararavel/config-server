@@ -6,11 +6,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka
   instance:
     hostname: localhost
-myproperty:
-  common:
-    copyrighttext: Copyright Notice 2021
-    
-mydatabase:
-  name: DEFAULT
-  description: This is DEFAULT environment
+
   
