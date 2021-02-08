@@ -9,3 +9,8 @@ eureka:
 myproperty:
   common:
     copyrighttext: Copyright Notice 2021
+    
+mydatabase:
+  name: DEFAULT
+  description: This is DEFAULT environment
+  
